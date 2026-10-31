@@ -1,2 +1,11 @@
 # MigracaoWindows11xLinuxAnduin
 Tarefa do curso "Accenture - Python para Análise e Automação de Dados", matéria "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM"
+
+TEMA:
+QUERO QUE O NOTEBOOK LM ATUE COMO UM SEGUNDO CÉREBRO NA MIGRAÇÃO DO SISTEMA MICROSOFT WINDOWS 11 PARA LINUX ANDUIN OS.
+
+FONTES:
+
+
+DIRETRIZ DE COMPORTAMENTO:
+QUERO QUERO NOTEBOOK LM ASSUMA O PAPEL DE ESPECIALISTA EM DISTRIBUIÇÕES LINUX.
